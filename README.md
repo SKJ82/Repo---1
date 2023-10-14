@@ -1,4 +1,4 @@
 # Repo---1
 First git repository
 <br>
-Author - Satyam Kumar Jha
+Author : Satyam Kumar Jha
